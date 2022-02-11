@@ -3,4 +3,6 @@
 
 這個程式碼使用到了套件 [keras-tcn](https://github.com/philipperemy/keras-tcn) 來完成 TCN 模塊. 
 
+此代碼參考了文獻 [bioma-tcn-ae](https://github.com/MarkusThill/bioma-tcn-ae)
+
 More details to come...
