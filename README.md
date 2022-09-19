@@ -2,33 +2,33 @@
 
 
 
-- ##### 碩士論文 --> []()
+- ##### 碩士論文 --> [鄭睿閎-碩士論文](https://drive.google.com/file/d/1sxmdD6txeYUzY0VsDaRkFzzivGEQxxC-/view?usp=sharing)
 
 - ##### 程式碼 （資料夾） -->神經網路程式碼
 
-###### 	[tab]|_ _ _ wear_tcn.py -->齒輪磨耗程度 程式碼
+|_ _ _ wear_tcn.py -->齒輪磨耗程度 程式碼
 
-###### 	|_ _ _ tcn_classification_1Channel.py -->SE-TCN 齒輪缺陷分類(單軸) 程式碼
+|_ _ _ tcn_classification_1Channel.py -->SE-TCN 齒輪缺陷分類(單軸) 程式碼
 
-###### 	|_ _ _ tcn_classification.py -->SE-TCN 齒輪缺陷分類(三軸) 程式碼
+|_ _ _ tcn_classification.py -->SE-TCN 齒輪缺陷分類(三軸) 程式碼
 
-###### 	|_ _ _ tcn_classification _ORG.py -->TCN 齒輪缺陷分類(三軸) 程式碼
+|_ _ _ tcn_classification _ORG.py -->TCN 齒輪缺陷分類(三軸) 程式碼
 
-###### 	|_ _ _ gear_tcn_ae.py -->齒輪缺陷檢測 程式碼
+|_ _ _ gear_tcn_ae.py -->齒輪缺陷檢測 程式碼
 
 
 
 - ##### 資料擷取 （資料夾） -->齒輪振動資料擷取數據 
 
-###### 	|_ _ _ bot (資料夾) -->輕度齒輪缺陷資料
+|_ _ _ bot (資料夾) -->輕度齒輪缺陷資料
 
-###### 	|_ _ _ mid (資料夾) -->中度齒輪缺陷資料
+|_ _ _ mid (資料夾) -->中度齒輪缺陷資料
 
-###### 	|_ _ _ top (資料夾) -->重度齒輪缺陷資料
+|_ _ _ top (資料夾) -->重度齒輪缺陷資料
 
 
 
-##### ( 由於數據資料檔案過大，可以下載我的雲端連結 --> )
+##### ( 由於數據資料檔案過大，可以下載我的雲端連結 --> [Data](https://drive.google.com/drive/folders/1hqApdd6KRoPuIHYSnkE0VTesJOmIphD-?usp=sharing))
 
 ### 論文中所使用之程式碼皆是基於最基本的 TCN (時間卷積神經網路) 的程式所轉寫 --> [點擊此處跳轉至原始碼](https://github.com/philipperemy/keras-tcn)
 
