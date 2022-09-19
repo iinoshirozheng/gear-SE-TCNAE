@@ -6,7 +6,7 @@
 
 - ##### 程式碼 （資料夾） -->神經網路程式碼
 
-###### 	|_ _ _ wear_tcn.py -->齒輪磨耗程度 程式碼
+###### 	[tab]|_ _ _ wear_tcn.py -->齒輪磨耗程度 程式碼
 
 ###### 	|_ _ _ tcn_classification_1Channel.py -->SE-TCN 齒輪缺陷分類(單軸) 程式碼
 
