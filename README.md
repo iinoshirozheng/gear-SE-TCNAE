@@ -2,7 +2,7 @@
 
 
 
-- ##### 碩士論文 --> [鄭睿閎-碩士論文](https://drive.google.com/file/d/1sxmdD6txeYUzY0VsDaRkFzzivGEQxxC-/view?usp=sharing)
+- ##### 碩士論文 --> [鄭睿閎-碩士論文](https://github.com/iinoshirozheng/gear-tcn-ae/blob/main/%E9%84%AD%E7%9D%BF%E9%96%8E_%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87.pdf)
 
 - ##### 程式碼 （資料夾） -->神經網路程式碼
 
